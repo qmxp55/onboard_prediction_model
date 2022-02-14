@@ -18,3 +18,8 @@ The content of this work is the Jupyter Notebook with name `main.ipynb` and sect
    2. The model: Random Forest
    3. Feature importance
 7. New features proposal
+8. LTV relation with demo plan
+
+Hope you enjoy this work! 
+
+![alt text](meme.png)
